@@ -13,17 +13,20 @@ Sphinx = "*"
 [packages]
 src = {editable = true, path = "./"}
 ipywidgets = "*"
-awscli = "*"
 numpy = "*"
 scipy = "*"
 pandas = "*"
 pyarrow = "*"
-scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
-prometheus-api-client = "*"
+plotly = "*"
+kaleido = "*"
+scikit-learn = "*"
+umap-learn = "*"
+mlxtend = "*"
 hyperopt = "*"
 shap = "*"
+prometheus-api-client = "*"
 
 [requires]
 python_version = "3.6"
