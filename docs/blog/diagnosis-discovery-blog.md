@@ -108,7 +108,7 @@ Since we are able to automatically extract meaningful symptoms and patterns with
 
 [4] [McInnes, Leland, John Healy, and James Melville. "Umap: Uniform manifold approximation and projection for dimension reduction." arXiv preprint arXiv:1802.03426 (2018).](https://arxiv.org/abs/1802.03426)
 
-[5] [Ester, Martin, et al. "A density-based algorithm for discovering clusters in large spatial databases with noise." Kdd. Vol. 96. No. 34. 1996.](aaai.org/Papers/KDD/1996/KDD96-037.pdf?source=post_page---------------------------)
+[5] [Ester, Martin, et al. "A density-based algorithm for discovering clusters in large spatial databases with noise." Kdd. Vol. 96. No. 34. 1996.](https://aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 
 [6] [K-means](https://en.wikipedia.org/wiki/K-means_clustering)
 
