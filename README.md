@@ -20,8 +20,8 @@ In this approach, we first try to determine which deployments exhibit similar ty
 ### Getting Started
 
 We have created a project image and made it accessible through a publicly available JupyterHub instance on the MOC. You can fire up a JupyterHub pod and run our notebooks by following these steps
-1. Request access to the MOC cluster according to the steps described [here](https://www.operate-first.cloud/operators/moc-cnv-sandbox/docs/about-the-cluster.md#request-access-to-the-moc-cnv-cluster).
-2. Click [here](https://odh-dashboard-opf-dashboard.apps.cnv.massopen.cloud) to get to the ODH dashboard. From there, click the "Launch" button on the panel titled "JupyterHub".
+1. Request access to the MOC cluster by following the steps described [here](https://www.operate-first.cloud/users/moc_cluster_access.md).
+2. Click [here](https://odh-dashboard-opf-dashboard.apps.zero.massopen.cloud) to get to the ODH dashboard. From there, click the "Launch" button on the panel titled "JupyterHub".
 
 3. Next, click on `Sign in with OpenShift` to continue to authentication. When prompted for an authentication method, choose "MOC-SSO" and then authenticate using your Google or University credentials.
 4. In the "Select desired notebook image" dropdown, select `openshift-anomaly-detection:latest` and then click the `Spawn` button.
