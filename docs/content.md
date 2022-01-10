@@ -14,3 +14,5 @@ In this approach, we try to identify issues before they occur, or before they si
 In this approach, we first try to determine which deployments exhibit similar types of "symptoms" (i.e. health problems). Once we have this grouping, we try to figure out the precise set of symptoms that best characterizes the underlying issue in each of the groups of deployments. Support engineers can then use these symptom patterns to determine the "diagnosis" for these problematic deployments, and programatically define the issue.
 
 * [Notebook](../notebooks/stage/diagnosis-discovery-demo.ipynb)
+* [Blog](../docs/blog/diagnosis-discovery-blog.md)
+* [DevConf.CZ 2021 Talk](https://youtu.be/RPBXma8NY0s)
