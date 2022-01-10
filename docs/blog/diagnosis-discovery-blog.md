@@ -116,14 +116,14 @@ Since we are able to automatically extract meaningful symptoms and patterns with
 
 [8] [GitHub Repository](https://github.com/aicoe-aiops/openshift-anomaly-detection)
 
-[9] [Operate First JupyterHub](https://jupyterhub-opf-jupyterhub.apps.zero.massopen.cloud/)
+[9] [Operate First JupyterHub](https://jupyterhub-opf-jupyterhub.apps.smaug.na.operate-first.cloud)
 
 
 ### Project Material
 
 #### Steps to get you started:
 
-1. Visit https://jupyterhub-opf-jupyterhub.apps.zero.massopen.cloud
+1. Visit https://jupyterhub-opf-jupyterhub.apps.smaug.na.operate-first.cloud
 2. Login with your google account
 3. In this Spawn screen, select `openshift-anomaly-detection:latest`
 4. Once your server starts, go into the directory named `openshift-anomaly-detection-yyyy-mm-dd-hh-mm`
