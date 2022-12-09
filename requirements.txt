@@ -1,0 +1,16 @@
+-e .
+hyperopt
+ipywidgets
+kaleido
+matplotlib
+mlxtend
+numpy
+pandas
+plotly
+prometheus-api-client
+pyarrow
+scikit-learn
+scipy
+seaborn
+shap
+umap-learn
